@@ -1,0 +1,23 @@
+{
+  "name": "emore",
+  "version": "1.0.0",
+  "description": "Hi ",
+  "main": "mors.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MorSss/actfinalsia.git"
+  },
+  "author": "badin11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MorSss/actfinalsia/issues"
+  },
+  "homepage": "https://github.com/MorSss/actfinalsia#readme"
+}
